@@ -6,7 +6,9 @@
 
 ——**Ellen Ullman, Close to the Machine: Technophilia and its Discontents**
 
-                                           ![](http://eloquentjavascript.net/img/chapter_picture_00.jpg)
+```
+                                       ![](http://eloquentjavascript.net/img/chapter_picture_00.jpg)
+```
 
 这是一本关于训练电脑的书。今天而言电脑就像螺丝刀一样，但是它只是更加复杂，并且想让它按照你的想法去做通常不是一件容易的事情。
 
@@ -24,7 +26,7 @@
 
 ## 关于编程
 
-除了解释JavaScript这门语言，我还会介绍编程的基本准则。
+除了解释JavaScript这门语言，我还会介绍编程的基本准则。编程看上去很难，基础的规则一般是简单清晰的，但是要想解释清楚建立在这些规则之上的程序自己的一套规则和复杂性就变得相当复杂了。某种意义上当你编程时你就好像在建造自己的迷宫，随时都有可能迷路。
 
-
+当你阅读这本书时可能有时会感到极其困惑，如果你是编程初学者，那将会有大量的新知识等你消化。大部分知识都会以某种方式与其他知识结合，需要你去联想
 
